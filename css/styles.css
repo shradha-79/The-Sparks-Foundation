@@ -1,0 +1,137 @@
+body{
+    font-family: 'Montserrat', sans-serif; 
+}
+#title{
+    background-image:url("../images/thankyou.jpg")  ;
+    background-repeat: round;
+    color: white;
+}
+h1{
+    font-family: 'Montserrat', sans-serif; 
+    line-height: 1.7;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+h2{
+    font-weight: bold;
+    color: white;
+    line-height: 1.5;
+}
+em{
+    font-weight: bold;
+    color: white;
+    line-height: 1.5;
+}
+h3{
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
+
+
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+/* navbar */
+
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+    font-family: 'ubuntu', sans-serif; 
+    font-size: 2rem;
+    font-weight: bold;
+    
+}
+.nav-item{
+    padding: 0 18px;
+    
+}
+
+/* Download-btn */
+.Download-btn
+{
+    margin: 5% 3% 5% 0%;
+}
+
+
+
+/* features */
+#features{
+    padding: 7% 15%;
+    background-color: white;
+    position: relative;
+    
+}
+.features-box{
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    color: #003347;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #734cff;
+}
+/* !-- Testimonials -- */
+#testimonials{
+     text-align: center;
+    background-color: #003347 ;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+/* pricing */
+#pricing{
+    padding: 7% 15%;
+    text-align: center;
+}
+
+
+/* footer */
+
+#footer{
+    text-align: center;
+    padding: 3% 7%;
+    background-color: #003347;
+    color:white;
+}
+.footer-icon{
+    margin: 2% ;
+}
+
+
+
+.donation-img{ 
+    display: flex;  
+    justify-content: center;
+}
+.img-do{
+    height: 250px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 25px;
+    border: 5px solid black;
+    
+   
+}
+
+.row-al{
+    text-align: center;
+}
+ul{
+    text-align: left;
+}
